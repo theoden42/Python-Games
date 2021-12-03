@@ -5,5 +5,5 @@ written below is a list of Todos
 
 ### ToDo:
 * Tic Tac Toe
-  - [] add stroke animation on ending of winning game
-  - [] add a computer player mode and a simple AI to play the game and win most of the times
+  - [ ] add stroke animation on ending of winning game
+  - [ ] add a computer player mode and a simple AI to play the game and win most of the times
